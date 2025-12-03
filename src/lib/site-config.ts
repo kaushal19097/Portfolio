@@ -58,6 +58,6 @@ export const siteConfig = {
     'Remote Work India',
     'International Remote Developer India',
   ],
-  url: 'https://yashkapure.netlify.app',
+  url: 'https://kaushal-chaudhary-portfolio.vercel.app/',
   defaultLocale: 'en',
 };

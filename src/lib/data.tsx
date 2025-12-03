@@ -46,8 +46,8 @@ export const projectsData = [
     ],
     links: {
       preview: 'https://calmllama.life/',
-      github: 'https://github.com/Yashkapure06',
-      githubApi: 'https://api.github.com/repos/Yashkapure06',
+      github: 'https://github.com/kaushal19097/',
+      githubApi: '',
     },
   },
   {
@@ -70,8 +70,8 @@ export const projectsData = [
     ],
     links: {
       preview: 'https://mini-otio.vercel.app/',
-      github: 'https://github.com/Yashkapure06/mini-otio',
-      githubApi: 'https://api.github.com/repos/Yashkapure06',
+      github: 'https://github.com/kaushal19097//',
+      githubApi: '',
     },
   },
   {
@@ -92,8 +92,8 @@ export const projectsData = [
     ],
     links: {
       preview: 'https://ec2-observe.vercel.app/',
-      github: 'https://github.com/Yashkapure06/ec2-observe',
-      githubApi: 'https://api.github.com/repos/Yashkapure06',
+      github: 'https://github.com/kaushal19097//',
+      githubApi: '',
     },
   },
   {
@@ -115,9 +115,9 @@ export const projectsData = [
     ],
     links: {
       preview:
-        'https://calendly.com/yashkapure06/book-a-call-at-the-earliest?month=2024-10',
-      github: 'https://github.com/Yashkapure06',
-      githubApi: 'https://api.github.com/repos/Yashkapure06',
+        '',
+      github: 'https://github.com/kaushal19097/',
+      githubApi: '',
     },
   },
 ] as const;

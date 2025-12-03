@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: siteConfig.title,
     description: siteConfig.description,
-    creator: '@KapureYash',
+    creator: '@@Kaushalchaudhary',
     images: [`${siteConfig.url}/images/metaimg.png`],
   },
   authors: [{ name: 'Kaushal Chaudhary', url: 'https://github.com/' }],
@@ -92,10 +92,9 @@ const RootLayout = ({ children }: PropsWithChildren) => {
     image: `${siteConfig.url}/images/profile.jpg`,
     email: 'ckaushal56@gmail.com',
     sameAs: [
-      'https://github.com/Yashkapure06',
-      'https://linkedin.com/in/yash-kapure',
-      'https://twitter.com/KapureYash',
-      'https://www.instagram.com/_yashkapure_',
+      'https://github.com/kaushal19097',
+      'https://www.linkedin.com/in/kaushal-chaudhary-a633721a6/',
+      'https://www.instagram.com/imkaushalchaudhary',
     ],
     address: {
       '@type': 'PostalAddress',

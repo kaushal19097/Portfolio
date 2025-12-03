@@ -1,10 +1,10 @@
 module.exports = {
-  siteUrl: 'https://yashkapure.netlify.app',
+  siteUrl: 'https://kaushal-chaudhary-portfolio.vercel.app/',
   generateRobotsTxt: true,
   generateIndexSitemap: false,
   robotsTxtOptions: {
     policies: [{ userAgent: '*', allow: '/' }],
-    additionalSitemaps: ['https://yashkapure.netlify.app/sitemap.xml'],
+    additionalSitemaps: ['https://kaushal-chaudhary-portfolio.vercel.app/sitemap.xml'],
   },
   // Additional paths for better indexing
   additionalPaths: async () => {
